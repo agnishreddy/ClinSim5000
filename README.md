@@ -75,7 +75,7 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 ---
 
 ## Author  
-**[Your Name](https://linkedin.com/in/yourprofile)**  
+**[Your Name](https://linkedin.com/in/agnish/)**  
 - GitHub: [yourusername](https://github.com/agnishreddy)  
 - LinkedIn: [Your Name](https://www.linkedin.com/in/agnish/)  
 
